@@ -30,7 +30,7 @@ Minimal fullstack application built with Node.js and React.js .
   npm init -y
   npm i express
   ```
-2. Créez un dossier appelé "serveur" et un fichier "index.js" dans ce dernier
+2. Créez un dossier appelé "server" et un fichier "index.js" dans ce dernier
 
   ```js
   const path = require("path");
