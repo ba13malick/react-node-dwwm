@@ -184,5 +184,5 @@ Malick Ba - malick.ba@energy-generation.org
 [Express-url]: https://expressjs.com
 [Node.js]: https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D
 [Node-url]: https://nodejs.org/en/
-[React]: https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white
+[React.js]: https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
